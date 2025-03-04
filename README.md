@@ -1,4 +1,5 @@
 # **Hotel Performance Insights Dashboard**
+![Screenshot 2025-03-04 at 9 14 26 AM](https://github.com/user-attachments/assets/e179af33-8476-4c54-bf59-9bef7a25180a)
 
 ## **Overview**
 The **Hotel Performance Insights Dashboard** is an advanced analytics project built with **Power BI** to help hotel managers make data-driven decisions. This interactive dashboard provides actionable insights into key performance metrics, including occupancy rates, revenue trends, booking patterns, and cancellations, enabling better operational and strategic decision-making.
